@@ -1,0 +1,10 @@
+*.xz
+*.zip
+*.deb
+*.tar.gz
+*.tar.gz.asc
+*/pkg
+*/src
+
+
+phpdbg/phpdbg
