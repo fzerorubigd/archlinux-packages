@@ -3,6 +3,7 @@
 *.deb
 *.tar.gz
 *.tar.gz.asc
+*.tgz
 */pkg
 */src
 
