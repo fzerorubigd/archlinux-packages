@@ -8,6 +8,8 @@ cat << EOF
 	wget https://raw.githubusercontent.com/cyfdecyf/cow/master/doc/sample-config/rc
  	
 	and edit listen and proxy settings. the document is in chineese :) 
+
+        for direct and block list, you can also edit ~/.cow/blocked and ~/.cow/direct
 EOF
 post_upgrade
 }
