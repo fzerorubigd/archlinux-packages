@@ -4,7 +4,7 @@ pkgname='jcal-git'
  
 _gitname=jcal
 #The real value will be calculated by pkgver() function
-pkgver=51.ad7df79
+pkgver=67.d9200f8
 pkgrel=1
  
 pkgdesc="Jalali calendar is a small and portable free software library to manipulate date and time in Jalali calendar system"
