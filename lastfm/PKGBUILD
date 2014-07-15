@@ -2,7 +2,7 @@
 
 pkgname=lastfm
 pkgver=2.1.30
-pkgrel=7
+pkgrel=8
 pkgdesc="The official Last.fm desktop application suite"
 arch=('any')
 url="http://www.last.fm/"
@@ -19,7 +19,8 @@ conflicts=(lastfm-git
     lastfm-mpd-cli
     lastfm-msk
     lastfm-msk-light)
-provides=lastfm
+
+provides=(lastfm)
 
 #install=$pkgname.install
 
