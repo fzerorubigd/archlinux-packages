@@ -1,11 +1,11 @@
 # Maintainer: FzerorubigD <fzerorubigd {AT} GMail {DOT} com>
 pkgname=tmass-git
-pkgver=16.a6cdd9f
+pkgver=33.9c633d7
 pkgrel=1
 pkgdesc="A simple session manager for tmux."
 arch=('i686' 'x86_64' 'armv5tel' 'armv6l' 'armv71')
 url="https://github.com/fzerorubigd/tmass"
-license=('gpl3')
+license=('GPL3')
 depends=()
 makedepends=('go' 'git')
 source=('git://github.com/fzerorubigd/tmass.git')
