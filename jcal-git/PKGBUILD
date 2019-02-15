@@ -15,7 +15,7 @@ license=('GPL3')
 provides=('jcal') 
 depends=()
 makedepends=('git')
-source=('git://github.com/ashkang/jcal.git')
+source=('git+https://github.com/fzerorubigd/jcal.git')
 md5sums=('SKIP')
  
  
